@@ -5,9 +5,13 @@ body{
     background-color: lightblue;
     margin:5px;
 }
-#text-shadow{
-    padding: 0 40px;
+#box-shadow{
     font-size: 30px;
+}
+.box-drop_shadow {
+    box-shadow: 2px 2px 5px gray;
+    padding: 5px;
+    margin: 20px;
 }
 .neon{
      color:white;
