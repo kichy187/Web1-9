@@ -1,6 +1,8 @@
 @charset "UTF-8";
 body{
-    background-color:lightgrey;
+    background-image: url(img/DSC_0365.jpg),url(img/21.png);
+    background-repeat: no-repeat,no-repeat;
+    background-color: lightblue;
     margin:5px;
 }
 #text-shadow{
