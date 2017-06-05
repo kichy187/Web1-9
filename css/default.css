@@ -52,3 +52,7 @@ body{
 .translateX{
     transform:translateX(10px);
 }
+.transform-origin{
+    transform-origin: 0% 0%;
+    transform: rotate(30deg);
+}
